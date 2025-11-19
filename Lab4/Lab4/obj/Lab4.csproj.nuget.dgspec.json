@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\OneDrive\\Desktop\\DotNet\\Lab4\\Lab4\\Lab4.csproj": {}
+    "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\Lab4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\OneDrive\\Desktop\\DotNet\\Lab4\\Lab4\\Lab4.csproj": {
+    "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\Lab4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Desktop\\DotNet\\Lab4\\Lab4\\Lab4.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\Lab4.csproj",
         "projectName": "Lab4",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\DotNet\\Lab4\\Lab4\\Lab4.csproj",
+        "projectPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\Lab4.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\DotNet\\Lab4\\Lab4\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,6 +59,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.0.1, )"
             }
           },
           "imports": [

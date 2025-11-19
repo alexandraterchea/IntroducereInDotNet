@@ -1,8 +1,10 @@
 using Lab4.Persistence.Domain;
+using Lab4.Features.Orders.Dtos;
+using MediatR;
 
 namespace Lab4.Features.Orders.Requests;
 
-public class CreateOrderProfileRequest
+public class CreateOrderProfileRequest:IRequest<OrderProfileDto>
 {
     public string Title { get; set; } = null!;
     public string Author { get; set; } = null!;
