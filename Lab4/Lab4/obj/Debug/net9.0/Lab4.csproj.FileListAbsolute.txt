@@ -45,3 +45,5 @@ C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\obj\Debug\net9.0\r
 C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\FluentValidation.dll
 C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
 C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\Lab4.Tests\obj\Lab4.Tests.csproj.nuget.dgspec.json
+C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\Lab4.Tests\obj\project.assets.json
