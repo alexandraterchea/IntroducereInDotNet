@@ -42,3 +42,6 @@ C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\obj\Debug\net9.0\r
 C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\obj\Debug\net9.0\Lab4.pdb
 C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\obj\Debug\net9.0\Lab4.genruntimeconfig.cache
 C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\obj\Debug\net9.0\ref\Lab4.dll
+C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\alexa\OneDrive\Desktop\IntroducereInDotNet\Lab4\Lab4\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll

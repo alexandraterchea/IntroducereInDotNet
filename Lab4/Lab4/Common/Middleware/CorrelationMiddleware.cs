@@ -1,3 +1,4 @@
+namespace Lab4.Common.Middleware;
 public class CorrelationMiddleware
 {
     private readonly RequestDelegate _next;

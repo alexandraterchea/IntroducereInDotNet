@@ -1,14 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "9px8w+0zCrU=",
+  "dgSpecHash": "j8iKEG/9dpg=",
   "success": true,
   "projectFilePath": "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\Lab4.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\alexa\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\fluentvalidation\\12.1.0\\fluentvalidation.12.1.0.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.1\\fluentvalidation.aspnetcore.11.3.1.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\mediatr\\13.0.0\\mediatr.13.0.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\alexa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\9.0.0\\microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
@@ -27,18 +31,5 @@
     "C:\\Users\\alexa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.1\\swashbuckle.aspnetcore.swaggerui.10.0.1.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 15.0.1 was resolved.",
-      "projectPath": "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\Lab4.csproj",
-      "warningLevel": 1,
-      "filePath": "C:\\Users\\alexa\\OneDrive\\Desktop\\IntroducereInDotNet\\Lab4\\Lab4\\Lab4.csproj",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }
